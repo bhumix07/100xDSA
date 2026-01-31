@@ -1,0 +1,25 @@
+# Executables
+*.exe
+*.out
+*.a
+
+# Build folders
+build/
+bin/
+
+# Debug files
+*.o
+*.obj
+*.pdb
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Temporary files
+*.log
+*.tmp
